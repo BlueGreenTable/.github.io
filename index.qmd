@@ -1,10 +1,13 @@
 ---
-title: "BlueGreenTable.github.io"
+title: "Aditya Sharma"
+image: pic.webp
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The University of Alberta is a
 
 ```{r}
 1 + 1
