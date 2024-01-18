@@ -5,6 +5,10 @@ about:
   template: jolla
   image-shape: round
   image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:aditya1@ualberta.ca
 ---
 
 The University of Alberta is a
