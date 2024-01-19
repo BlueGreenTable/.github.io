@@ -11,8 +11,5 @@ about:
       href: mailto:aditya1@ualberta.ca
 ---
 
-The University of Alberta is a
 
-```{r}
-1 + 1
-```
+I'm a fifth-year finance major at the University of Alberta, bringing real-world experience from two co-op terms. My time as a Treasury intern at Nutrien greatly improved my analytical skills, especially in managing financial resources. In the sales and trading position that followed, I thrived on challenges, showcasing a strong work ethic and a collaborative mindset. Looking to pursue a career in trading, I would bring a passion for learning and strong data analytics skills, which I have built through handling complex projects with large data sets.
